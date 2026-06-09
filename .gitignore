@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+API_SSF_DS2_en_csv_v2_19443/
+possible_dataset/
+previous/
+dataset_background.docx/
+WGI_csv.zip
